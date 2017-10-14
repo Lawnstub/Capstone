@@ -10,7 +10,7 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
-#Use Bootstrap for Web Frontend
+#Use Bootstrap for Web frontend styles
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
