@@ -5,9 +5,7 @@ Subscription-based File Host
 
 Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
+* Ruby Version 2.3.4
 
 * Configuration
 
