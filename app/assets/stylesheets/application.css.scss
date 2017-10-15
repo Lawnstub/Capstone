@@ -13,5 +13,8 @@
  *= require_tree .
  *= require_self
  */
-@import "bootstrap-sprockets";
-@import "bootstrap";
+ 
+#display{
+    background-color: #93a2ba;
+    opacity: 0.40;
+}

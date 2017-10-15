@@ -10,6 +10,8 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
+#Added Font-Awesome Support
+gem 'font-awesome-sass', '4.7.0'
 #Use Bootstrap for Web frontend styles
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # Use SCSS for stylesheets
